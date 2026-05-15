@@ -22,7 +22,7 @@ The program performs the following operations:
 - Jupyter Notebook / VS Code  
 - OpenCV (`cv2`)  
 - NumPy  
-- Matplotlib  
+- Matplotlib   
 
 ---
 
